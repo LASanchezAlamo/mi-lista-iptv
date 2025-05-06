@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="Noticias",A24
+https://stream-aka.akamaized.net/hls/live/2003473/A24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CINEAR.ar" tvg-name="CINE.AR" group-title="Películas",CINE.AR
+https://example.com/cinear/stream.m3u8
